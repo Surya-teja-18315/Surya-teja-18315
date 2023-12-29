@@ -1,16 +1,30 @@
-### Hi there 👋
+# Your Name's Portfolio
 
-<!--
-**Surya-teja-18315/Surya-teja-18315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your Name's Portfolio](link-to-your-profile-image.png)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm Your Name, a passionate and creative software developer. I specialize in [mention your key skills/technologies], and I enjoy turning ideas into innovative solutions. This is my GitHub portfolio where I showcase my projects and skills.
+
+## Projects
+
+### Project 1: Project Name
+
+Description of the project. Briefly explain what the project is about.
+
+- ![GIF](link-to-gif-1.gif)
+- [Repository](link-to-repository)
+- [Live Demo](link-to-live-demo)
+
+### Project 2: Project Name
+
+Description of the project. Briefly explain what the project is about.
+
+- ![GIF](link-to-gif-2.gif)
+- [Repository](link-to-repository)
+- [Live Demo](link-to-live-demo)
+
+## Code Samples
+
+```python
+# Insert code snippets here
