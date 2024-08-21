@@ -1,1 +1,2 @@
-# Hi There
+Hi! I'm Surya Teja Front-end Developer
+As a front-end developer with a strong background in creating responsive and optimized web applications, I specialize in utilizing React.js and Tailwind CSS to deliver high-performing, cross-browser compatible solutions. My experience includes transforming complex designs into dynamic user interfaces, collaborating closely with business and marketing teams to enhance brand visibility, and refactoring legacy codebases to improve performance metrics. Through my work, I have consistently achieved significant improvements in user engagement, load times, and overall site efficiency, driven by a passion for delivering seamless user experiences.
