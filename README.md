@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/surya-teja-d/" target="_blank">
-    <img src="https://img.shields.io/badge/-Surya%20Teja-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Surya-teja-18315" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
